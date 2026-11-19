@@ -2,7 +2,7 @@
 
 A working contact form for Next.js, with **no API route, no server and no SMTP setup**. Submissions are delivered to your **email** and **Telegram** by [Formiz](https://formiz.app), and saved in a small built-in CRM.
 
-![Formiz](https://formiz.app/r10/1-hero.png)
+![Formiz: forms that actually reach you](.github/banner.png)
 
 ## Why
 
